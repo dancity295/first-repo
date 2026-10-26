@@ -35,3 +35,6 @@ git commit -m "alasan simpan apa"
 ```
 
 Ini adalah tulisan tambahan
+
+mantap Jiwa Nathan
+Mantap Jiwa
